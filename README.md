@@ -1,6 +1,6 @@
 # Student Dropout Prediction Model
 
-**Type:** Solo Project · 2024
+**Type:** Solo Project
 
 ## Overview
 Built a logistic regression model using generalized linear modeling (GLM) to predict whether university students would graduate or drop out, achieving 84.98% accuracy. Applied iterative variable selection to identify the most significant predictors of student dropout risk.
@@ -41,4 +41,5 @@ Models performed nearly identically, favouring the parsimonious reduced model.
 `Python` `pandas` `numpy` `sklearn` `statsmodels` `GLM` `Logistic Regression`
 
 ## Files
-- `Predictive_Analytics_Writing_Sample.pdf` — Full project report with model output and analysis
+- `PredictiveAnalysisReport.pdf` — Full project report with model output and analysis
+- `PredictiveAnalysis.ipynb` — Full Python Jupyter Notebook with code and output
